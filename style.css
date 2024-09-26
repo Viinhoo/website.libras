@@ -38,7 +38,8 @@ section {
 
 img {
     width: 150px;
-    height: 150px;
+    height: 250px;
+    border-radius: 20px;
 }
 
 h2 {
