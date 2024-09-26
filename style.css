@@ -36,6 +36,11 @@ section {
     text-align: center;
 }
 
+img {
+    width: 150px;
+    height: 150px;
+}
+
 h2 {
     margin-bottom: 15px;
     font-size: 2rem;
