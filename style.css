@@ -39,8 +39,9 @@ section {
 img {
     width: 150px;
     height: 250px;
+    border: #424242;
     border-radius: 20px;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 h2 {
