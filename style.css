@@ -39,7 +39,7 @@ section {
 img {
     width: 150px;
     height: 250px;
-    border: #424242;
+    border: 15px solid #424242;
     border-radius: 20px;
     margin-right: 50px;
 }
